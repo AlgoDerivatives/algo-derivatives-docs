@@ -14,5 +14,5 @@ This repository holds documentation releases, content and materials for **AlgoDe
   
 - [**AlgoDerivatives** Smart Contracts](https://github.com/AlgoDerivatives/algo-derivatives-smart-contracts/blob/main/README.md)
 
-## 
+
 
