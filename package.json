@@ -1,0 +1,23 @@
+{
+  "name": "algo-derivatives-docs",
+  "version": "1.0.0",
+  "description": "This repository holds documentation releases, content and materials for AlgoDerivatives project.",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlgoDerivatives/algo-derivatives-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlgoDerivatives/algo-derivatives-docs/issues"
+  },
+  "homepage": "https://github.com/AlgoDerivatives/algo-derivatives-docs#readme",
+  "devDependencies": {
+    "honkit": "^4.0.7"
+  }
+}
